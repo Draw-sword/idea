@@ -11,6 +11,10 @@ public class firstClass {
         System.out.println("hello git");
 
         // hello test
+
+        // 成了
+        // 成了
+        // 成了
     }
 
     public void test(){
